@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgb(160, 190, 134);
+}
+
+.header_div
+{
+    background-color: rgb(153, 181, 129);
+    color: rgb(0, 0, 0);
+    margin-bottom: 20px;
+    
+}
+.header_div h2
+{
+    font-weight: bold;
+}
+
+.main_div button
+{
+    letter-spacing: 6px;
+}
